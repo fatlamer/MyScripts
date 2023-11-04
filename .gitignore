@@ -1,12 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,batch,powershell
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,batch,powershell
-
-### Batch ###
-# BatchFiles
-*.bat
-*.cmd
-*.btm
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos
 
 ### macOS ###
 # General
@@ -40,13 +34,6 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-### PowerShell ###
-# Exclude packaged modules
-*.zip
-
-# Exclude .NET assemblies from source
-*.dll
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -66,7 +53,7 @@ Temporary Items
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,batch,powershell
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
