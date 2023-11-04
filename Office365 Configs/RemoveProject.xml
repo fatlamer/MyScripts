@@ -1,0 +1,8 @@
+<Configuration>
+<Remove All="FALSE">
+  <Product ID="ProjectProRetail" >
+    <Language ID="MatchInstalled" />
+  </Product>
+</Remove>
+ <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>

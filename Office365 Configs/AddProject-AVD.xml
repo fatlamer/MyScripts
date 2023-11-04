@@ -1,0 +1,13 @@
+<!--This is a config to install MS project on multisession AVDs without removing current Office installation-->
+<Configuration>
+ <Add Version="MatchInstalled">
+  <Product ID="ProjectProRetail">
+   <Language ID="MatchInstalled" TargetProduct="All" />
+  </Product>
+ </Add>
+  <Property Name="SharedComputerLicensing" Value="1" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+ <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>

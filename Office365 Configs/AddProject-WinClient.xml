@@ -1,0 +1,8 @@
+<Configuration>
+ <Add Version="MatchInstalled">
+  <Product ID="ProjectProRetail">
+   <Language ID="MatchInstalled" TargetProduct="All" />
+  </Product>
+ </Add>
+ <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
